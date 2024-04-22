@@ -1,0 +1,66 @@
+body {
+	background:url("imagens/pexels-jeremy-bishop-1260133-20147085.jpg")repeat-x;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+	}
+
+footer{
+background-color:hwb(0 10% 89%);
+color:#FFFFFF;
+font-family:Verdana;
+font-size:15px;
+text-align:center;
+padding:10px;
+margin-top:15px;
+}
+
+img, video
+{
+	max-width:100%;
+}
+
+nav
+{
+	background-color:#0c0b0b;
+	height:35px;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:20px;
+}
+
+nav ul
+{
+height:auto;
+padding:8px 0px
+margin:0px
+}
+
+nav section
+{
+display:inline;
+padding:10px;
+margin:0px;
+}
+
+nav a 
+{
+text-decoration:none;
+color:#FFFFFF;
+padding: 8px 8px 8px 8px;
+}
+
+nav a:hover
+{
+color:#111010;
+background-color:#FFFFFF;
+}
+
+@media all and (min-width:960px)
+{
+header{
+	color: rgb(6, 7, 6);
+	padding: 0px;
+
+}
