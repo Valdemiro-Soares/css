@@ -23,11 +23,11 @@ img, video
 
 nav
 {
-	background-color:#0c0b0b;
+	background-color:black;
 	height:38px;
 	font-family:Verdana;
 	font-weight:bold;
-	font-size:22px;
+	font-size:20px;
 }
 
 nav ul
